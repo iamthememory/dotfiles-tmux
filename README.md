@@ -1,4 +1,4 @@
-# dotfiles-vim
+# dotfiles-tmux
 
 Add these dotfiles to your own configuration with
 [homeshick](https://github.com/andsens/homeshick) as follows:
